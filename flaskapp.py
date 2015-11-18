@@ -86,5 +86,5 @@ def error500(error):
 
 if __name__ == '__main__':
   pusherrors()
-  app.debug = True
+  #app.debug = True
   app.run()
